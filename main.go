@@ -4,6 +4,7 @@ import (
 	"fmt"
 
 	"github.com/rblkn/main-svc/adder"
+
 	"github.com/rblkn/main-svc/power"
 )
 
