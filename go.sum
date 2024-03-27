@@ -2,7 +2,5 @@ github.com/rblkn/lib/adder v0.0.1 h1:pxcftCptR8qK7eUwo8ILGqzX189LcnOSyoOhlIrlo/c
 github.com/rblkn/lib/adder v0.0.1/go.mod h1:ZVC5odctLPsmrozXZoEGAxLWsxlxeWAuHfQ2CZr89+A=
 github.com/rblkn/lib/power v0.1.0 h1:aF9EApvmJ/KK0LnfZKLdh2UnVrYw8MzpWuQWGsNP0es=
 github.com/rblkn/lib/power v0.1.0/go.mod h1:UQKlDcfymjORtOljxfPcc0qPmAUfuYnedtW+nDe6qVY=
-github.com/rblkn/main-svc/adder v0.0.0-20240128205408-71a280745c23 h1:B9xoPLdCgyYhJCuCXSym5p8OIXfCSIZAF4AP1Pzyi9g=
-github.com/rblkn/main-svc/adder v0.0.0-20240128205408-71a280745c23/go.mod h1:+4bW8qr1sXKVH1bVsZr1KDUBYUpr2TJ4duVC3Z58UGQ=
 golang.org/x/exp v0.0.0-20240119083558-1b970713d09a h1:Q8/wZp0KX97QFTc2ywcOE0YRjZPVIx+MXInMzdvQqcA=
 golang.org/x/exp v0.0.0-20240119083558-1b970713d09a/go.mod h1:idGWGoKP1toJGkd5/ig9ZLuPcZBC3ewk7SzmH0uou08=
