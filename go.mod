@@ -3,7 +3,7 @@ module github.com/rblkn/main-svc
 go 1.21.6
 
 require (
-	github.com/rblkn/lib/adder v0.0.1
+	github.com/rblkn/lib/adder v0.2.1
 	github.com/rblkn/lib/power v0.2.2
 )
 
